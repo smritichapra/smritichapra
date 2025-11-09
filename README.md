@@ -21,7 +21,7 @@
 
 ### 🖤 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/smritichapra"><img src="https://img.shields.io/badge/LinkedIn-Smriti%20Chapra-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="www.linkedin.com/in/smriti-chapra"><img src="https://img.shields.io/badge/LinkedIn-Smriti%20Chapra-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/smritichapra"><img src="https://img.shields.io/badge/GitHub-smriti-black?style=for-the-badge&logo=github"></a>
 </p>
 
